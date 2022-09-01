@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.event{
+    min-height: 100vh;
+    width: 100%;
+}
+
+.carousel-control-prev{
+    filter: invert(100%);
+}
+
+.carousel-control-next{
+    filter: invert(100%);
+}
+
+
